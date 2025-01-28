@@ -32,6 +32,9 @@
 
 [Проект по компьютерному зрению](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Компьютерное_зрение.ipynb) 
 
+[Проект по NLP](https://github.com/daryafralova/NLP-Project) 
+
+
 🗞️ Диплом и сертификаты:
 
 
