@@ -31,7 +31,7 @@
 
 :octocat:Pet-проекты Data Science:
 
-[Проект по компьютерному зрению] (https://github.com/daryafralova/Computer-Vision-Project/blob/main/Компьютерное_зрение.ipynb)
+Посмотрите мой [Проект по компьютерному зрению]([https://github.com/your-username/your-repo-name](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Компьютерное_зрение.ipynb)).
 
 
 
