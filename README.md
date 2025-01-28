@@ -15,4 +15,5 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
 [![A/B-тесты](https://img.shields.io/badge/A%2FB%20Tests-5E60CE?style=for-the-badge&logo=testing-library&logoColor=white)](https://en.wikipedia.org/wiki/A/B_testing)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
