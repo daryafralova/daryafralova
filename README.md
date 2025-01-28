@@ -16,4 +16,12 @@
 [![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
 [![A/B-тесты](https://img.shields.io/badge/A%2FB%20Tests-5E60CE?style=for-the-badge&logo=testing-library&logoColor=white)](https://en.wikipedia.org/wiki/A/B_testing)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![pymorphy2](https://img.shields.io/badge/pymorphy2-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://pymorphy2.readthedocs.io/)
+[![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.nltk.org/)
+[![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+[![A/B-тесты](https://img.shields.io/badge/A%2FB%20Tests-5E60CE?style=for-the-badge&logo=testing-library&logoColor=white)](https://en.wikipedia.org/wiki/A/B_testing)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
