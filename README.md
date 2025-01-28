@@ -13,8 +13,6 @@
 [![ClickHouse](https://img.shields.io/badge/ClickHouse-FCCA3F?style=for-the-badge&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
 [![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge&logo=catboost&logoColor=white)](https://catboost.ai/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
-[![A/B-тесты](https://img.shields.io/badge/A%2FB%20Tests-5E60CE?style=for-the-badge&logo=testing-library&logoColor=white)](https://en.wikipedia.org/wiki/A/B_testing)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
@@ -24,7 +22,6 @@
 [![A/B-тесты](https://img.shields.io/badge/A%2FB%20Tests-5E60CE?style=for-the-badge&logo=testing-library&logoColor=white)](https://en.wikipedia.org/wiki/A/B_testing)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
 📱Контакты:
 
@@ -35,4 +32,5 @@
 :octocat:Pet-проекты Data Science:
 
 
-:octocat:Pet-проекты Data Analisys: 
+
+
