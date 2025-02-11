@@ -40,6 +40,8 @@
 
 [Платежеспособность клиентов (PySpark)](https://github.com/daryafralova/DATA-ANALYSIS) 
 
+[Анализ рынка недвижимости (PySpark)](https://github.com/daryafralova/DATA-ANALYSIS) 
+
 ## 🎓 Диплом и сертификаты:
 [Диплом](https://github.com/daryafralova/diploma-and-certificates)
 
