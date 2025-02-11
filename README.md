@@ -1,10 +1,12 @@
 <h1 align="center">Привет 👋 Я - Даша, Data-Scientist </h1> 
-👩‍💻 Обо мне:
+
+## 💬 Обо мне:
+
 Занимаюсь Data Science более 2 лет, с фокусом на машинное обучение и обработку естественного языка (NLP). 
-Постоянно развиваюсь, исследую новые модели и алгоритмы. 
+
 Открыта для интересных проектов и возможностей в сфере ML и AI!
 
-🛠️Языки и инструменты:
+## 🛠️ Мой стек: 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -27,20 +29,35 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-📱Контакты:
+## 📈 Мои проекты Data Science:
+
+[Проект по NLP](https://github.com/daryafralova/NLP-Project) 
+
+[Проект по компьютерному зрению](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Компьютерное_зрение.ipynb)
+
+## 📊 Мои проекты Data Analysis:
+[Платежеспособность клиентов (Pandas)](https://github.com/daryafralova/DATA-ANALYSIS) 
+
+[Платежеспособность клиентов (PySpark)](https://github.com/daryafralova/DATA-ANALYSIS) 
+
+## 🎓 Диплом и сертификаты:
+[Диплом](https://github.com/daryafralova/diploma-and-certificates)
+
+[Сертификаты](https://github.com/daryafralova/diploma-and-certificates)
+
+## 📱Мои контакты:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daryafralova@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@daryafralova)
 
-:octocat:Pet-проекты Data Science:
-
-[Проект по компьютерному зрению](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Компьютерное_зрение.ipynb) 
-
-[Проект по NLP](https://github.com/daryafralova/NLP-Project) 
 
 
-🗞️ Диплом и сертификаты:
+
+
+
+
+
 
 
 
