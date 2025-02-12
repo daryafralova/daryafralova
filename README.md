@@ -36,7 +36,7 @@
 [Проект по компьютерному зрению](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Компьютерное_зрение.ipynb)
 
 ## 📊 Мои проекты Data Analysis:
-[Платежеспособность клиентов (Pandas)](https://github.com/daryafralova/DATA-ANALYSIS) 
+[Платежеспособность клиентов (Pandas)](https://github.com/daryafralova/DATA-ANALYSIS/blob/main/Платежеспособность_клиентов(Pandas))  
 
 [Платежеспособность клиентов (PySpark)](https://github.com/daryafralova/DATA-ANALYSIS) 
 
