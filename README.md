@@ -4,6 +4,11 @@
 
 Я занимаюсь аналитикой данных и ML. Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий...
 
+## Всегда на связи:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daryafralova@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darya-fralova/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@daryafralova)
+
 ## Мой стек: 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +34,7 @@
 
 ## Мои проекты по аналитике данных и ML:
 
-[Проект по NLP](https://github.com/daryafralova/NLP-Project) 
+[Проект бинарной классификации](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
 
 [Проект по компьютерному зрению](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Компьютерное_зрение.ipynb)
 
@@ -39,16 +44,13 @@
 
 [Анализ рынка недвижимости (PySpark)](https://github.com/daryafralova/DATA-ANALYSIS) 
 
+[EDA Буше](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
+
+
 ## Диплом и сертификаты:
-[Диплом](https://github.com/daryafralova/diploma-and-certificates)
 
 [Сертификаты](https://github.com/daryafralova/diploma-and-certificates)
 
-## Мои контакты:
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daryafralova@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darya-fralova/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@daryafralova)
 
 
 
