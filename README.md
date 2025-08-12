@@ -32,7 +32,7 @@
 [![SHAP](https://img.shields.io/badge/SHAP-FF6600?style=for-the-badge&logo=shap&logoColor=white)](https://shap.readthedocs.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-## Мои проекты по аналитике данных и ML:
+## Мои проекты по аналитике и ML:
 
 [Проект бинарной классификации](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
 
