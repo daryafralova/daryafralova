@@ -46,7 +46,7 @@
 
 [Анализ рынка недвижимости (PySpark)](https://github.com/daryafralova/DATA-ANALYSIS) 
 
-[EDA Буше](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
+[Food_outlers](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
 
 
 ## Диплом и сертификаты:
