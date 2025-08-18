@@ -36,7 +36,7 @@
 
 ## Мои проекты по аналитике и ML:
 
-[Проект бинарной классификации](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
+[Marketing_Response(предсказание отклика на маркетинговую кампанию)](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
 
 [Проект по компьютерному зрению](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Компьютерное_зрение.ipynb)
 
@@ -46,7 +46,7 @@
 
 [Анализ рынка недвижимости (PySpark)](https://github.com/daryafralova/DATA-ANALYSIS) 
 
-[Food_outlers](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
+[Food_outlers(кластеризация заведений)](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
 
 
 ## Диплом и сертификаты:
