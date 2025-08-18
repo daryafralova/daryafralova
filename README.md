@@ -36,7 +36,7 @@
 
 ## Мои проекты по аналитике и ML:
 
-[Marketing_Response(предсказание отклика на маркетинговую кампанию)](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
+[Marketing_Response(предсказание отклика)](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
 
 [Проект по компьютерному зрению](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Компьютерное_зрение.ipynb)
 
