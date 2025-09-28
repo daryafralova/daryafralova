@@ -6,12 +6,9 @@
 
 Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий...
 
-<br>
 <div align="center">
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
-<br>
-
 
 ### Для связи со мной:
 
@@ -21,11 +18,9 @@ LinkedIn: https//www.linkedin.com/in/darya-fralova
 
 Telegram: @daryafralova
 
-<br>
 <div align="center">
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
-<br>
 
 ## Мой стек: 
 
