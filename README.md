@@ -48,7 +48,8 @@ Telegram: @daryafralova
 </div>
 
 ### Мои проекты по аналитике и ML:
-<p style="font-size: 14px; color: #6c757d; margin-top: -10px;">🛠️ Раздел в процессе активного наполнения и улучшения</p>
+
+<small style="color: #6c757d;">🚧 Раздел в процессе активного наполнения и улучшения</small>
 
 [Marketing_Response(предсказание отклика)](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
 
