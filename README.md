@@ -47,7 +47,8 @@ Telegram: @daryafralova
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
-## Мои проекты по аналитике и ML:
+### Мои проекты по аналитике и ML:
+* Раздел в процессе активного наполнения и улучшения...*
 
 [Marketing_Response(предсказание отклика)](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
 
@@ -65,7 +66,7 @@ Telegram: @daryafralova
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
-## Диплом и сертификаты:
+### Диплом и сертификаты:
 
 [Сертификаты](https://github.com/daryafralova/diploma-and-certificates)
 
