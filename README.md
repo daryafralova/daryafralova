@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, everyone! 👋  </h1> 
+<h1 align="center"> Всем привет!  </h1> 
 
 Меня зовут Даша
 
@@ -7,9 +7,8 @@
 Здесь я публикую свои проекты — от учебных экспериментов до готовых решений.
 
 ## Всегда на связи:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daryafralova@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darya-fralova/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@daryafralova)
+LinkedInhttps: https//www.linkedin.com/in/darya-fralova/
+Telegram: https://t.me/@daryafralova)
 
 ## Мой стек: 
 
