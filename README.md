@@ -8,7 +8,9 @@
 
 ## Всегда на связи:
 Email: daryafralova@gmail.com
+
 LinkedIn: https//www.linkedin.com/in/darya-fralova
+
 Telegram: @daryafralova
 
 ## Мой стек: 
