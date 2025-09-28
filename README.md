@@ -43,6 +43,9 @@ Telegram: @daryafralova
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![DWH](https://img.shields.io/badge/DWH-02569B?style=for-the-badge&logo=apache&logoColor=white)]()
 
+<div align="center">
+<hr style="width:50%; border:0; height:2px; background:#333;">
+</div>
 
 ## Мои проекты по аналитике и ML:
 
@@ -58,6 +61,9 @@ Telegram: @daryafralova
 
 [Food_outlers(кластеризация заведений)](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
 
+<div align="center">
+<hr style="width:50%; border:0; height:2px; background:#333;">
+</div>
 
 ## Диплом и сертификаты:
 
