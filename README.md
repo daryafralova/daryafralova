@@ -8,11 +8,10 @@
 
 <br>
 <div align="center">
-  
-![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
+<hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 <br>
+
 
 ### Всегда на связи:
 
