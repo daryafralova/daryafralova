@@ -13,13 +13,19 @@
 <br>
 
 
-### Всегда на связи:
+### Для связи со мной:
 
 Email: daryafralova@gmail.com
 
 LinkedIn: https//www.linkedin.com/in/darya-fralova
 
 Telegram: @daryafralova
+
+<br>
+<div align="center">
+<hr style="width:50%; border:0; height:2px; background:#333;">
+</div>
+<br>
 
 ## Мой стек: 
 
