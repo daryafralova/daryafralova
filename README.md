@@ -25,7 +25,6 @@ Telegram: @daryafralova
 ## Мой стек: 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![DataLens](https://img.shields.io/badge/DataLens-E97627?style=for-the-badge&logo=yd&logoColor=white)](https://cloud.yandex.ru/services/datalens)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
