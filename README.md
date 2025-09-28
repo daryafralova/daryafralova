@@ -7,8 +7,8 @@
 Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий...
 
 ## Всегда на связи:
-LinkedInhttps: https//www.linkedin.com/in/darya-fralova/
-Telegram: https://t.me/@daryafralova)
+LinkedIn: https//www.linkedin.com/in/darya-fralova/
+Telegram: https://t.me/@daryafralova/
 
 ## Мой стек: 
 
