@@ -12,7 +12,7 @@
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
-## Мой стек: 
+### Мой стек: 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![DataLens](https://img.shields.io/badge/DataLens-E97627?style=for-the-badge&logo=yd&logoColor=white)](https://cloud.yandex.ru/services/datalens)
