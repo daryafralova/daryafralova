@@ -6,7 +6,8 @@
 
 Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий...
 
-## Всегда на связи:
+### Всегда на связи:
+
 Email: daryafralova@gmail.com
 
 LinkedIn: https//www.linkedin.com/in/darya-fralova
