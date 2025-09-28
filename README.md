@@ -25,7 +25,8 @@ Telegram: @daryafralova
 ## Мой стек: 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![DataLens](https://img.shields.io/badge/DataLens-E97627?style=for-the-badge&logo=yd&logoColor=white)](https://cloud.yandex.ru/services/datalens)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
@@ -33,8 +34,6 @@ Telegram: @daryafralova
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![ClickHouse](https://img.shields.io/badge/ClickHouse-FCCA3F?style=for-the-badge&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
 [![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge&logo=catboost&logoColor=white)](https://catboost.ai/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
 [![A/B-тесты](https://img.shields.io/badge/A%2FB%20Tests-5E60CE?style=for-the-badge&logo=testing-library&logoColor=white)](https://en.wikipedia.org/wiki/A/B_testing)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -44,6 +43,8 @@ Telegram: @daryafralova
 [![ETL](https://img.shields.io/badge/ETL-FF9E0F?style=for-the-badge&logo=etl&logoColor=black)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 [![SHAP](https://img.shields.io/badge/SHAP-FF6600?style=for-the-badge&logo=shap&logoColor=white)](https://shap.readthedocs.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![DWH](https://img.shields.io/badge/DWH-02569B?style=for-the-badge&logo=apache&logoColor=white)]()
+
 
 ## Мои проекты по аналитике и ML:
 
