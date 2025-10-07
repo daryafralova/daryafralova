@@ -40,17 +40,8 @@
 ### Мои проекты по аналитике и ML:
 <small> Раздел в процессе активного наполнения и улучшения </small>
 
-[Marketing_Response(предсказание отклика)](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
+[Marketing_Response(предсказание отклика)](https://github.com/daryafralova/ML_projects/blob/main/Marketing_Response/README.md)
 
-[Проект по компьютерному зрению](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Компьютерное_зрение.ipynb)
-
-[Платежеспособность клиентов (Pandas)](https://github.com/daryafralova/DATA-ANALYSIS/blob/main/Платежеспособность_клиентов(Pandas))  
-
-[Платежеспособность клиентов (PySpark)](https://github.com/daryafralova/DATA-ANALYSIS) 
-
-[Анализ рынка недвижимости (PySpark)](https://github.com/daryafralova/DATA-ANALYSIS) 
-
-[Food_outlers(кластеризация заведений)](https://github.com/daryafralova/Computer-Vision-Project/blob/main/Marketing_Response.ipynb)
 
 <div align="center">
 <hr style="width:50%; border:0; height:2px; background:#333;">
