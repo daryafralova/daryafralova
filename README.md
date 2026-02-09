@@ -37,10 +37,11 @@
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
-### Мои проекты по аналитике и ML:
+### Мои DATA-проекты:
 <small> Раздел в процессе активного наполнения и улучшения </small>
 
 [Marketing_Response(предсказание отклика)](https://github.com/daryafralova/ML_projects/blob/main/Marketing_Response/README.md)
+Сегментация покупателей e-commerce
 
 
 <div align="center">
