@@ -42,6 +42,10 @@
 
 [Сегментация покупателей e-commerce]
 
+[Анализ воронки продаж]
+
+[Проект: «Дашборд для менеджеров с ключевыми метриками (KPI Dashboard)]
+
 [Когортный анализ]
 
 [Marketing_Response(предсказание отклика)](https://github.com/daryafralova/ML_projects/blob/main/Marketing_Response/README.md)
