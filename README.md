@@ -40,9 +40,12 @@
 ### DATA-проекты:
 <small> Раздел в процессе активного наполнения и улучшения </small>
 
+[Сегментация покупателей e-commerce]
+
+[Когортный анализ]
+
 [Marketing_Response(предсказание отклика)](https://github.com/daryafralova/ML_projects/blob/main/Marketing_Response/README.md)
 
-[Сегментация покупателей e-commerce]
 [Идентификация пациента по радужной оболочке глаза](https://github.com/daryafralova/ML_projects/blob/main/Deep_learning_projects/README.md)
 
 
