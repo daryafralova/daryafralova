@@ -30,8 +30,7 @@
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
-### DATA-проекты: 
-<sub><sup>Раздел в процессе активного наполнения и улучшения</sup></sub>
+ # DATA-проекты:<br>Раздел в процессе активного наполнения и улучшения
 
 [Customer Segmentation & Revenue Growth Strategy](https://github.com/daryafralova/data_projects/tree/main/Segmentation(RFM)) 
 
