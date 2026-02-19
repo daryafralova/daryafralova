@@ -34,15 +34,10 @@
 
 [Customer Segmentation & Revenue Growth Strategy](https://github.com/daryafralova/data_projects/tree/main/Segmentation(RFM)) 
 
-[Анализ воронки продаж]
-
-[Проект: «Дашборд для менеджеров с ключевыми метриками (KPI Dashboard)]
-
-[Когортный анализ]
-
 [Marketing_Response(предсказание отклика)](https://github.com/daryafralova/ML_projects/blob/main/Marketing_Response/README.md)
 
-[Iris_Patient_Identification](https://github.com/daryafralova/data_projects/blob/main/Iris_authentification/README.md)
+[Iris_Patient_Identification](https://github.com/daryafralova/data_projects/tree/main/Iris_authentification)
+
 
 
 
