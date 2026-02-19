@@ -40,7 +40,7 @@
 ### DATA-проекты:
 <small> Раздел в процессе активного наполнения и улучшения </small>
 
-[Customer Segmentation & Revenue Growth Strategy](https://github.com/daryafralova/ML_projects/blob/main/Marketing_Response/README.md)
+[Customer Segmentation & Revenue Growth Strategy](https://github.com/daryafralova/data_projects/tree/main/Segmentation(RFM)) 
 
 [Анализ воронки продаж]
 
