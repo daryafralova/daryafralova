@@ -42,7 +42,8 @@
 
 [Marketing_Response(предсказание отклика)](https://github.com/daryafralova/ML_projects/blob/main/Marketing_Response/README.md)
 
-[Идентификация пациента по радужной оболочке глаза](https://github.com/daryafralova/ML_projects/blob/main/Deep_learning_projects/README.md)
+[Iris_Patient_Identification](https://github.com/daryafralova/data_projects/blob/main/Iris_authentification/README.md)
+
 
 
 <div align="center">
