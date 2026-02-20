@@ -3,6 +3,7 @@
 <img align="right" src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" width="400" style="margin-top: -20px; border: none; outline: none;">
 
 **Привет! Я Даша, Data Analyst**
+
 Здесь я делюсь проектами по анализу данных, визуализации и практическим экспериментам с новыми технологиями.
 Вы увидите, как цифры превращаются в инсайты и полезные решения.
 
