@@ -1,6 +1,3 @@
-<h2 align="center">Привет! Меня зовут Даша и я аналитик данных.</h2>
-
-
 <table>
   <tr>
     <td width="60%">
@@ -19,7 +16,7 @@
 
     </td>
     <td width="40%">
-      <img src="assets/analytics.gif" width="300px">
+      <img src="assets/spongebob-analytics.gif" width="300px">
     </td>
   </tr>
 </table>
