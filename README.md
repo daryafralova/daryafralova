@@ -7,23 +7,22 @@
 
 ### Для связи со мной:
 
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daryafralova) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darya-fralova)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daryafralova) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darya-fralova)
 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
+<br>
+<br>
 
-
-
-
-### Мой стек: 
+### Мой стек:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![DataLens](https://img.shields.io/badge/DataLens-E97627?style=for-the-badge&logo=yd&logoColor=white)](https://cloud.yandex.ru/services/datalens)
