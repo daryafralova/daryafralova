@@ -1,5 +1,10 @@
 <h2 align="center">Привет! Меня зовут Даша и я аналитик данных.</h2>
 
+<p align="right">
+  <img src="https://tenor.com/ru/view/spongebob-analytics-rainbows-stats-gif-18303713" width="400px">
+</p>
+
+
 <div align="center">
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
