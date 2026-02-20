@@ -14,6 +14,10 @@
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
+
+
+
+
 ### Мой стек: 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
