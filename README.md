@@ -3,6 +3,7 @@
 <img align="right" src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" width="400" style="margin-top: -20px;">
 
 ## Привет! Я Даша 🥰
+
 Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий
 
 <br>
