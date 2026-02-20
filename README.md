@@ -15,8 +15,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 <div align="center">
 <hr style="width:50%; border:0; height:2px; background:#333;">
