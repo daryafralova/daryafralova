@@ -2,9 +2,8 @@
 
 <img align="right" src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" width="400" alt="SpongeBob analytics">
 
-Я занимаюсь Java разработкой. Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий... и не только.
+Я занимаюсь аналитикой. Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий.
 
-Благодарю за внимание и хорошего дня!
 
 ### Для связи со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daryafralova)
