@@ -1,10 +1,5 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <!-- Изображение -->
-  <img src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" 
-       style="max-width: 400px; width: 100%; height: auto; border: none; outline: none;" 
-       alt="Spongebob Analytics">
-
-  <!-- Текст -->
+  <!-- Текст слева -->
   <div style="flex: 1; min-width: 250px;">
     <h2>Привет! Я Даша 🥰</h2>
     <p>Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий</p>
@@ -16,6 +11,13 @@
     <a href="https://linkedin.com/in/darya-fralova">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+  </div>
+
+  <!-- Картинка справа -->
+  <div style="flex: 0 0 auto;">
+    <img src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" 
+         style="max-width: 400px; width: 100%; height: auto; border: none; outline: none;" 
+         alt="Spongebob Analytics">
   </div>
 </div>
 
