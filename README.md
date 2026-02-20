@@ -38,6 +38,13 @@
 
 [Iris_Patient_Identification](https://github.com/daryafralova/data_projects/tree/main/Iris_authentification)
 
+- **Customer Segmentation & Revenue Growth Strategy**  
+  ![Status](https://img.shields.io/badge/status-active-brightgreen)
+- **Marketing_Response (предсказание отклика)**  
+  ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+- **Iris_Patient_Identification**  
+  ![Status](https://img.shields.io/badge/status-completed-blue)
+
 
 
 
