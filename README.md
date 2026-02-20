@@ -2,7 +2,7 @@
   <tr>
     <td>
       <!-- Сюда ссылку на вашу ГИФКУ или картинку -->
-      <img src="https://media.giphy.com/media/assets/spongebob-analytics.gif/giphy.gif" width="300px"/>
+      <img src="https://media.giphy.com/media/assets/spongebob-analytics.gif/giphy.gif" width="100px"/>
     </td>
     <td>
       <h1>Дарья Фролова</h1>
