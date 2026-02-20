@@ -1,8 +1,8 @@
-# Hello, everyone!
+<h1 style="border-bottom: none;">Hello, everyone!</h1>
 
 <img align="right" src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" width="400" style="margin-top: -20px; border: none; outline: none;">
 
-## Привет! Я Даша 🥰
+<h2 style="border-bottom: none;">Привет! Я Даша 🥰</h2>
 
 Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий
 
