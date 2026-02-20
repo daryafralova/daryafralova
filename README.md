@@ -1,6 +1,6 @@
 # Hello, everyone!
 
-<img align="right" src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" width="400" style="margin-top: -20px;">
+<img align="right" src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" width="400" style="margin-top: -20px; border: none; outline: none;">
 
 ## Привет! Я Даша 🥰
 
