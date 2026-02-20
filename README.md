@@ -1,24 +1,26 @@
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <!-- Текст слева -->
-  <div style="flex: 1; min-width: 250px;">
-    <h2>Привет! Я Даша 🥰</h2>
-    <p>Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий</p>
+# Hello, everyone!
 
-    <h3>Для связи со мной:</h3>
-    <a href="https://t.me/daryafralova">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
-    <a href="https://linkedin.com/in/darya-fralova">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  </div>
+<img align="right" src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" width="400" style="margin-top: -20px; border: none; outline: none;">
 
-  <!-- Картинка справа -->
-  <div style="flex: 0 0 auto;">
-    <img src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" 
-         style="max-width: 400px; width: 100%; height: auto; border: none; outline: none;" 
-         alt="Spongebob Analytics">
-  </div>
+## Привет! Я Даша 🥰
+
+Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Для связи со мной:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daryafralova) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darya-fralova)
+
+<br>
+
+<div align="center">
+<hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
 
