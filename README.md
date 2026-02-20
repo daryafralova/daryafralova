@@ -19,8 +19,6 @@
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
-<br>
-<br>
 
 ### Мой стек:
 
