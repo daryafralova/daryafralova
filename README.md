@@ -1,5 +1,8 @@
 <h2 align="center">Привет! Меня зовут Даша и я аналитик данных.</h2>
 
+<p align="center">
+  <img src="assets/spongebob-analytics.gif" width="400px">
+</p>
 
 <div align="center">
 <hr style="width:50%; border:0; height:2px; background:#333;">
