@@ -1,15 +1,17 @@
 # Hello, everyone!
 
-### Привет! Я Даша 👋
+<img align="right" src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" width="400" style="margin-top: -20px;">
 
-<img align="right" src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" width="400" alt="SpongeBob analytics">
+## Привет! Я Даша 🥰
 
-Я занимаюсь аналитикой. Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий.
-
+Здесь я выкладываю свои проекты, которые создаю в процессе изучения различных технологий
 
 ### Для связи со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daryafralova)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darya-fralova)
+
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daryafralova) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darya-fralova)
+
+---
 
 <div align="center">
 <hr style="width:50%; border:0; height:2px; background:#333;">
