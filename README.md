@@ -1,10 +1,10 @@
-<h1 style="border-bottom: none;">Hello, there!</h1>
+<h1 style="border-bottom: none;">Всем привет!</h1>
 
 <img align="right" src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" width="400" style="margin-top: -20px; border: none; outline: none;">
 
-**Привет! Я Даша, Data Analyst**
 
-Здесь я делюсь проектами по анализу данных, визуализации и практическим экспериментам с новыми технологиями.
+**Я Даша, Data Analyst.Анализирую, проверяю, визуализирую.  
+Помогаю бизнесу принимать решения, которые работают.**
 
 
 <br>
