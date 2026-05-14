@@ -10,13 +10,11 @@
 
 
 ###  Мой стек:
-- **Python:** pandas, requests, selenium, sqlalchemy, numpy, seaborn, matplotlib
-- **SQL:** PostgreSQL (CTE, оконные функции, джойны)
-- **BI:** DataLens, Power BI
-- **Excel:** ВПР, сводные таблицы, сложные формулы, анализ данных
-- **Продуктовая аналитика:** RFM, когортный анализ, KPI, юнит-экономика, сегментация
-- **A/B-тестирование:** дизайн экспериментов, выбор метрик, анализ результатов
-- **Дополнительно:** Airflow, Docker, ClickHouse, Hadoop, PySpark
+- Анализ данных: PostgreSQL, Python(pandas, requests, selenium, sqlalchemy, numpy, seaborn, matplotlib)
+- A/B-тестирование: дизайн экспериментов, выбор метрик, анализ результатов
+- BI: DataLens, Power BI
+- Продуктовая аналитика: KPI, юнит-экономика, RFM, когортный анализ
+- Дополнительно: Airflow, Docker, ClickHouse, Hadoop, PySpark
 
 <br>
 
