@@ -26,20 +26,17 @@
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
+### Data-проекты:<br>
+| Сфера  | Ссылка | Описание | Инструменты |
+|--------|--------|---------------|-------------|
+| A/B Testing | [Репозиторий](ссылка) | Проверка продуктовых и маркетинговых гипотез | Python, статистика |
+| Data Analysis  | [Репозиторий](ссылка) | Исследовательский анализ данных и визуализация | Python |
+| BI Dashboards| [Репозиторий](ссылка) | Коллекция дашбордов: от продаж до пользовательских метрик | DataLens, PowerBI |
+| Unit Economics Projects| [Репозиторий](ссылка) | Расчёт юнит-экономики и KPI |	Excel, Python |
 
 <div align="center">
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
-
-
-
- ### DATA-проекты:<br>
-
-[Customer Segmentation & Revenue Growth Strategy](https://github.com/daryafralova/data_projects/tree/main/Segmentation(RFM)) 
-
-[Marketing_Response(предсказание отклика)](https://github.com/daryafralova/ML_projects/blob/main/Marketing_Response/README.md)
-
-[Iris_Patient_Identification](https://github.com/daryafralova/data_projects/tree/main/Iris_authentification)
 
 
 
@@ -53,10 +50,16 @@
 
 [Сертификаты](https://github.com/daryafralova/diploma-and-certificates)
 
+<div align="center">
+<hr style="width:50%; border:0; height:2px; background:#333;">
+</div>
 
-
-
-
+### Контакты:
+- Telegram: t.me/daryafralova
+- Email: daryafralova@gmail.com
+<div align="center">
+<hr style="width:50%; border:0; height:2px; background:#333;">
+</div>
 
 
 
