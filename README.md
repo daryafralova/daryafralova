@@ -1,4 +1,4 @@
-<h1 style="border-bottom: none;">Всем привет! </h1>
+<h1 style="border-bottom: none;">Всем привет! 👋 </h1>
 
 Я Даша, Data Analyst.
 
@@ -9,7 +9,7 @@
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
-###  Мой стек:
+### 🛠 Мой стек:
 - Анализ данных: PostgreSQL, Python(pandas, requests, selenium, sqlalchemy, numpy, seaborn, matplotlib)
 - A/B-тестирование: дизайн экспериментов, выбор метрик, анализ результатов
 - BI: DataLens, Power BI
@@ -20,7 +20,7 @@
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
-### Data-проекты:<br>
+### 📁 Data-проекты:<br>
 | Сфера  | Ссылка | Описание | Инструменты |
 |--------|--------|---------------|-------------|
 | A/B Testing | [Репозиторий](ссылка) | Проверка продуктовых и маркетинговых гипотез | Python, статистика |
@@ -32,7 +32,7 @@
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
-### Диплом и сертификаты:
+### 📜 Диплом и сертификаты:
 
 [Сертификаты](https://github.com/daryafralova/diploma-and-certificates)
 
@@ -40,7 +40,7 @@
 <hr style="width:50%; border:0; height:2px; background:#333;">
 </div>
 
-### Контакты:
+### 📫 Контакты:
 - Telegram: t.me/daryafralova
 - Email: daryafralova@gmail.com
 <div align="center">
