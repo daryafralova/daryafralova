@@ -1,12 +1,7 @@
-<h1 style="border-bottom: none;">Всем привет! Я Даша </h1>
+<h1 style="border-bottom: none;">Всем привет! </h1>
 
-<img align="right" src="https://github.com/daryafralova/daryafralova/blob/main/assets/spongebob-analytics.gif?raw=true" width="200" style="margin-top: -10px; border: none; outline: none;">
-
-
-**Data Analyst** в мире цифр и в душе — Спанчбоб, который влюблённо смотрит на аналитику.
-
-Что я делаю: анализирую, проверяю, визуализирую.  
-Зачем: чтобы бизнес принимал решения, которые реально работают.
+Я Даша, Data Analyst.
+Помогаю бизнесу видеть, что работает, а что нет. Через дашборды, тесты и честный анализ данных.
 
 <br>
 <br>
@@ -33,14 +28,6 @@
 | Data Analysis  | [Репозиторий](ссылка) | Исследовательский анализ данных и визуализация | Python |
 | BI Dashboards| [Репозиторий](ссылка) | Коллекция дашбордов: от продаж до пользовательских метрик | DataLens, PowerBI |
 | Unit Economics Projects| [Репозиторий](ссылка) | Расчёт юнит-экономики и KPI |	Excel, Python |
-
-<div align="center">
-<hr style="width:50%; border:0; height:2px; background:#333;">
-</div>
-
-
-
-
 
 <div align="center">
 <hr style="width:50%; border:0; height:2px; background:#333;">
