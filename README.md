@@ -11,6 +11,10 @@
 <br>
 <br>
 
+<div align="center">
+<hr style="width:50%; border:0; height:2px; background:#333;">
+</div>
+
 ###  Мой стек:
 - Анализ данных: PostgreSQL, Python(pandas, requests, selenium, sqlalchemy, numpy, seaborn, matplotlib)
 - A/B-тестирование: дизайн экспериментов, выбор метрик, анализ результатов
