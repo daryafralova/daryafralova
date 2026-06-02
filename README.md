@@ -25,8 +25,7 @@
 |--------|--------|---------------|-------------|
 | A/B Testing | [Репозиторий](ссылка) | Проверка продуктовых и маркетинговых гипотез | Python, статистика |
 | Data Analysis  | [Репозиторий](https://github.com/daryafralova/data_projects)| Исследовательский анализ данных и визуализация | Python, pandas, numpy, seaborn, matplotlib |
-| Dashboards| [Репозиторий](ссылка) | Коллекция дашбордов | DataLens, PowerBI |
-| SQL| [Репозиторий](ссылка) |Расчет бизнес-метрик в PostgreSQL|	PostgreSQL |
+
 
 <div align="center">
 <hr style="width:50%; border:0; height:2px; background:#333;">
